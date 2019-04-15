@@ -1,2 +1,2 @@
-# EmployeeAttrition
-Analysis on attrition rate of employees
+# Employee Attrition
+![image.png](images/HRTalent.png)
