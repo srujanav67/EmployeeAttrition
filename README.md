@@ -1,2 +1,2 @@
 # EmployeeAttrition
-## Analysis on attrition rate of employees
+Analysis on attrition rate of employees
